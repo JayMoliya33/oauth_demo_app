@@ -3,7 +3,7 @@
 This is a sample Flutter app that demonstrates how to integrate OAuth2.0 authentication using Google OAuth providers. OAuth (Open Authorization) is a widely-used protocol for secure authorization and authentication.
 
 # Features
-OAuth2.0 ingration.
+OAuth2.0 integration.
 Minimalistic user interface for easy understanding.
 Simple Welcome Splash Screen
 Home Page that will display user details and Sign Out option.
