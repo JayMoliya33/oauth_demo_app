@@ -5,7 +5,7 @@ This is a sample Flutter app that demonstrates how to integrate OAuth2.0 authent
 # Features
 OAuth2.0 integration.
 Minimalistic user interface for easy understanding.
-Simple Welcome Splash Screen
+Simple Welcome Splash Screen.
 Home Page that will display user details and Sign Out option.
 Secure token management.
 Clear separation of authentication logic.
